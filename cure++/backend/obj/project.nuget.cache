@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "koAEDdS53c8=",
+  "success": true,
+  "projectFilePath": "/home/ahnaf-mubashsir/Documents/cure++/backend/backend.csproj",
+  "expectedPackageFiles": [
+    "/home/ahnaf-mubashsir/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/home/ahnaf-mubashsir/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
